@@ -76,4 +76,31 @@
 //    }
 //}
 
+// import static java.lang.Math.*;
+// public class Main {
+   
+//     public static void main(String[] args) {
+//         double[] mas = {16.5, 15.3, 1.3, 1.9. 100.2};
+//         long output = 0
+//         for (int i = 0; i < 5; i++){
+//             System.out.printf(mas[i] + " ");
+//         }
+//         System.out.println();
+//         for (int i = 0; i < 5; i++){
+//             output = pow(mas[i], 2) - 10*mas[i] + 15;
+//             System.out.printf(output + " ");
+//         }
+//         System.out.println();
+//         for (int i = 0; i < 5; i++){
+//             output = 2 * sin(toRadians(mas[i]) + PI / 3);
+//             System.out.printf(output + " ");
+//         }
+//         System.out.println();
+//         for (int i = 0; i < 5; i++){
+//             output = exp(sqrt(mas[i]));
+//             System.out.printf(output + " ");
+//         }
+//     }
+// }
+
 
